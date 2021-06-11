@@ -1,4 +1,4 @@
-import {BrowserRouter as Router,Link} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 import Header from './header/header';
 import Box from '@material-ui/core/Box';
 import MediaVideo from './media/mediaVideo';
