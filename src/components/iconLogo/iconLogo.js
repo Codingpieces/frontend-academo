@@ -1,4 +1,4 @@
-import {Box} from '@material-ui/core/Box';
+import Box from '@material-ui/core/Box';
 import IconButton from '@material-ui/core/IconButton';
 import DonutLargeTwoToneIcon from '@material-ui/icons/DonutLargeTwoTone';
 

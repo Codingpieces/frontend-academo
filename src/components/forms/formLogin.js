@@ -9,7 +9,7 @@ import {BrowserRouter as Router,
   import CardContent from '@material-ui/core/CardContent';
   import TextField from '@material-ui/core/TextField';
   import Button from '@material-ui/core/Button';
-  import {Box} from '@material-ui/core/Box';
+  import Box from '@material-ui/core/Box';
   
   const useStyles = makeStyles({
     root: {

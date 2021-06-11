@@ -2,7 +2,7 @@ import Header from './header/header';
 import Gallery from "react-photo-gallery";
 import { photos } from "./APIs/photos";
 import MiniNav from './header/mininav';
-import {Box} from '@material-ui/core/Box';
+import Box from '@material-ui/core/Box';
 import {BrowserRouter as Router,Link} from 'react-router-dom';
 import Button from '@material-ui/core/Button';
 
